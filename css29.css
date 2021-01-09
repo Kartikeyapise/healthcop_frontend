@@ -1,0 +1,316 @@
+.elementor-68 .elementor-element.elementor-element-8c209b0>.elementor-container {
+    min-height: 600px;
+}
+
+.elementor-68 .elementor-element.elementor-element-8c209b0>.elementor-container:after {
+    content: "";
+    min-height: inherit;
+}
+
+.elementor-68 .elementor-element.elementor-element-8c209b0:not(.elementor-motion-effects-element-type-background),
+.elementor-68 .elementor-element.elementor-element-8c209b0>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("http://healthcop.in/wp-content/uploads/2020/10/michelangelo-71282_1280.jpg");
+    background-position: top center;
+    background-size: cover;
+}
+
+.elementor-68 .elementor-element.elementor-element-8c209b0:hover {
+    background-image: url("http://healthcop.in/wp-content/uploads/2020/10/michelangelo-71282_1280.jpg");
+    background-position: center center;
+}
+
+.elementor-68 .elementor-element.elementor-element-8c209b0>.elementor-background-overlay {
+    background-color: #000000;
+    opacity: 0.5;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-68 .elementor-element.elementor-element-8c209b0 {
+    transition: background 1s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-68 .elementor-element.elementor-element-8c209b0>.elementor-shape-bottom .elementor-shape-fill {
+    fill: #ED2424;
+}
+
+.elementor-68 .elementor-element.elementor-element-8c209b0>.elementor-shape-bottom svg {
+    height: 50px;
+}
+
+.elementor-68 .elementor-element.elementor-element-23163be {
+    text-align: center;
+}
+
+.elementor-68 .elementor-element.elementor-element-23163be .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 600;
+    line-height: 1.5em;
+}
+
+.elementor-68 .elementor-element.elementor-element-e5f0eb9>.elementor-container {
+    min-height: 400px;
+}
+
+.elementor-68 .elementor-element.elementor-element-e5f0eb9>.elementor-container:after {
+    content: "";
+    min-height: inherit;
+}
+
+.elementor-68 .elementor-element.elementor-element-e5f0eb9:not(.elementor-motion-effects-element-type-background),
+.elementor-68 .elementor-element.elementor-element-e5f0eb9>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #ED2424;
+}
+
+.elementor-68 .elementor-element.elementor-element-e5f0eb9 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    color: #FFFFFF;
+    padding: 24px 24px 24px 24px;
+}
+
+.elementor-68 .elementor-element.elementor-element-e5f0eb9>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-68 .elementor-element.elementor-element-e5f0eb9>.elementor-shape-bottom .elementor-shape-fill {
+    fill: var( --e-global-color-ba1d1ab);
+}
+
+.elementor-68 .elementor-element.elementor-element-e5f0eb9>.elementor-shape-bottom svg {
+    transform: translateX(-50%) rotateY(180deg);
+}
+
+.elementor-68 .elementor-element.elementor-element-e5f0eb9 .elementor-heading-title {
+    color: #FFFFFF;
+}
+
+.elementor-68 .elementor-element.elementor-element-e5f0eb9 a {
+    color: #FFFFFF;
+}
+
+.elementor-68 .elementor-element.elementor-element-e5f0eb9 a:hover {
+    color: #FFFFFF;
+}
+
+.elementor-68 .elementor-element.elementor-element-cc7627e {
+    text-align: center;
+}
+
+.elementor-68 .elementor-element.elementor-element-cc7627e .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 600;
+}
+
+.elementor-68 .elementor-element.elementor-element-bb18fbc .elementor-text-editor {
+    text-align: center;
+}
+
+.elementor-68 .elementor-element.elementor-element-bb18fbc {
+    color: #FFFFFF;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 400;
+    line-height: 2em;
+    letter-spacing: 0.3px;
+}
+
+.elementor-68 .elementor-element.elementor-element-8aac23e .elementor-button {
+    fill: #F9F9F9;
+    color: #F9F9F9;
+    background-color: #61CE7000;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.elementor-68 .elementor-element.elementor-element-de202f2 .elementor-spacer-inner {
+    height: 50px;
+}
+
+.elementor-68 .elementor-element.elementor-element-f59fc06>.elementor-container {
+    min-height: 400px;
+}
+
+.elementor-68 .elementor-element.elementor-element-f59fc06>.elementor-container:after {
+    content: "";
+    min-height: inherit;
+}
+
+.elementor-68 .elementor-element.elementor-element-f59fc06:not(.elementor-motion-effects-element-type-background),
+.elementor-68 .elementor-element.elementor-element-f59fc06>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #F4D916;
+}
+
+.elementor-68 .elementor-element.elementor-element-f59fc06 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 24px 24px 24px 24px;
+}
+
+.elementor-68 .elementor-element.elementor-element-f59fc06>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-68 .elementor-element.elementor-element-f59fc06>.elementor-shape-bottom .elementor-shape-fill {
+    fill: var( --e-global-color-e4832e4);
+}
+
+.elementor-68 .elementor-element.elementor-element-86d84a8 {
+    text-align: center;
+}
+
+.elementor-68 .elementor-element.elementor-element-86d84a8 .elementor-heading-title {
+    color: #1A1A1A;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 600;
+}
+
+.elementor-68 .elementor-element.elementor-element-1ae95d1 .elementor-text-editor {
+    text-align: center;
+}
+
+.elementor-68 .elementor-element.elementor-element-1ae95d1 {
+    color: #000000;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 400;
+    line-height: 2em;
+    letter-spacing: 0.3px;
+}
+
+.elementor-68 .elementor-element.elementor-element-9f31d27 .elementor-button {
+    fill: #000000;
+    color: #000000;
+    background-color: #61CE7000;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.elementor-68 .elementor-element.elementor-element-c5993bd .elementor-spacer-inner {
+    height: 50px;
+}
+
+.elementor-68 .elementor-element.elementor-element-e946fd7>.elementor-container {
+    min-height: 400px;
+}
+
+.elementor-68 .elementor-element.elementor-element-e946fd7>.elementor-container:after {
+    content: "";
+    min-height: inherit;
+}
+
+.elementor-68 .elementor-element.elementor-element-e946fd7:not(.elementor-motion-effects-element-type-background),
+.elementor-68 .elementor-element.elementor-element-e946fd7>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #79E247;
+}
+
+.elementor-68 .elementor-element.elementor-element-e946fd7 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 24px 24px 24px 24px;
+}
+
+.elementor-68 .elementor-element.elementor-element-e946fd7>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-68 .elementor-element.elementor-element-e946fd7>.elementor-shape-bottom .elementor-shape-fill {
+    fill: var( --e-global-color-7a8e996);
+}
+
+.elementor-68 .elementor-element.elementor-element-e946fd7>.elementor-shape-bottom svg {
+    transform: translateX(-50%) rotateY(180deg);
+}
+
+.elementor-68 .elementor-element.elementor-element-2dac8e5 {
+    text-align: center;
+}
+
+.elementor-68 .elementor-element.elementor-element-2dac8e5 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 600;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.elementor-68 .elementor-element.elementor-element-eb501a4 .elementor-text-editor {
+    text-align: center;
+}
+
+.elementor-68 .elementor-element.elementor-element-eb501a4 {
+    color: #000000;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 400;
+    line-height: 2em;
+    letter-spacing: 0.3px;
+}
+
+.elementor-68 .elementor-element.elementor-element-63a6284 .elementor-button {
+    fill: #000000;
+    color: #000000;
+    background-color: #61CE7000;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.elementor-68 .elementor-element.elementor-element-8882627 .elementor-spacer-inner {
+    height: 50px;
+}
+
+.elementor-68 .elementor-element.elementor-element-d13e60e>.elementor-container {
+    min-height: 400px;
+}
+
+.elementor-68 .elementor-element.elementor-element-d13e60e>.elementor-container:after {
+    content: "";
+    min-height: inherit;
+}
+
+.elementor-68 .elementor-element.elementor-element-d13e60e:not(.elementor-motion-effects-element-type-background),
+.elementor-68 .elementor-element.elementor-element-d13e60e>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #4D7BD6;
+}
+
+.elementor-68 .elementor-element.elementor-element-d13e60e {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 24px 24px 24px 24px;
+}
+
+.elementor-68 .elementor-element.elementor-element-d13e60e>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-68 .elementor-element.elementor-element-4eba2c1 {
+    text-align: center;
+}
+
+.elementor-68 .elementor-element.elementor-element-4eba2c1 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 600;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.elementor-68 .elementor-element.elementor-element-e0161e1 .elementor-text-editor {
+    text-align: center;
+}
+
+.elementor-68 .elementor-element.elementor-element-e0161e1 {
+    color: #FFFFFF;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 400;
+    line-height: 2em;
+    letter-spacing: 0.3px;
+}
+
+.elementor-68 .elementor-element.elementor-element-e3068de .elementor-button {
+    fill: #F9F9F9;
+    color: #F9F9F9;
+    background-color: #61CE7000;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.elementor-68 .elementor-element.elementor-element-e7bd40b .elementor-spacer-inner {
+    height: 50px;
+}

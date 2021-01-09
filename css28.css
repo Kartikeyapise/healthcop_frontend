@@ -1,0 +1,188 @@
+.elementor-119 .elementor-element.elementor-element-465abee>.elementor-container {
+    min-height: 600px;
+}
+
+.elementor-119 .elementor-element.elementor-element-465abee>.elementor-container:after {
+    content: "";
+    min-height: inherit;
+}
+
+.elementor-119 .elementor-element.elementor-element-465abee>.elementor-background-overlay {
+    background-color: #000000;
+    opacity: 0.5;
+    transition: background 0.9s, border-radius 0.3s, opacity 0.9s;
+}
+
+.elementor-119 .elementor-element.elementor-element-465abee .elementor-background-overlay {
+    filter: brightness( 35%) contrast( 100%) saturate( 0%) blur( 0px) hue-rotate( 0deg);
+}
+
+.elementor-119 .elementor-element.elementor-element-465abee:hover>.elementor-background-overlay {
+    filter: brightness( 35%) contrast( 100%) saturate( 130%) blur( 0px) hue-rotate( 0deg);
+}
+
+.elementor-119 .elementor-element.elementor-element-465abee {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-119 .elementor-element.elementor-element-cd19eb2 {
+    text-align: center;
+}
+
+.elementor-119 .elementor-element.elementor-element-cd19eb2 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 600;
+}
+
+.elementor-119 .elementor-element.elementor-element-ec5513a>.elementor-container {
+    max-width: 1046px;
+    min-height: 600px;
+}
+
+.elementor-119 .elementor-element.elementor-element-ec5513a>.elementor-container:after {
+    content: "";
+    min-height: inherit;
+}
+
+.elementor-119 .elementor-element.elementor-element-ec5513a>.elementor-shape-bottom .elementor-shape-fill {
+    fill: #F1F1F1;
+}
+
+.elementor-119 .elementor-element.elementor-element-ec5513a>.elementor-shape-bottom svg {
+    transform: translateX(-50%) rotateY(180deg);
+}
+
+.elementor-119 .elementor-element.elementor-element-faa2853 {
+    text-align: center;
+}
+
+.elementor-119 .elementor-element.elementor-element-faa2853 .elementor-heading-title {
+    color: var( --e-global-color-7a8e996);
+    font-family: "Poppins", Sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.elementor-119 .elementor-element.elementor-element-90878fc .elementor-text-editor {
+    text-align: left;
+}
+
+.elementor-119 .elementor-element.elementor-element-90878fc {
+    color: #000000;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 400;
+    line-height: 2em;
+    letter-spacing: 0.3px;
+}
+
+.elementor-119 .elementor-element.elementor-element-e6e8f6c>.elementor-container {
+    min-height: 400px;
+}
+
+.elementor-119 .elementor-element.elementor-element-e6e8f6c>.elementor-container:after {
+    content: "";
+    min-height: inherit;
+}
+
+.elementor-119 .elementor-element.elementor-element-e6e8f6c>.elementor-container>.elementor-row>.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-119 .elementor-element.elementor-element-e6e8f6c:not(.elementor-motion-effects-element-type-background),
+.elementor-119 .elementor-element.elementor-element-e6e8f6c>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #F1F1F1;
+}
+
+.elementor-119 .elementor-element.elementor-element-e6e8f6c {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-119 .elementor-element.elementor-element-e6e8f6c>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-119 .elementor-element.elementor-element-e6e8f6c>.elementor-shape-bottom svg {
+    transform: translateX(-50%) rotateY(180deg);
+}
+
+.elementor-119 .elementor-element.elementor-element-1777f96 .elementor-text-editor {
+    text-align: left;
+}
+
+.elementor-119 .elementor-element.elementor-element-1777f96 {
+    color: #000000;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 400;
+    line-height: 2em;
+    letter-spacing: 0.3px;
+}
+
+.elementor-119 .elementor-element.elementor-element-69ad270 .premium-banner-ib-title,
+.elementor-119 .elementor-element.elementor-element-69ad270 .premium-banner-ib-content,
+.elementor-119 .elementor-element.elementor-element-69ad270 .premium-banner-read-more {
+    text-align: left;
+}
+
+.elementor-119 .elementor-element.elementor-element-69ad270 .premium-banner-ib img {
+    opacity: 1;
+}
+
+.elementor-119 .elementor-element.elementor-element-69ad270 .premium-banner-ib img.active {
+    opacity: 1;
+}
+
+.elementor-119 .elementor-element.elementor-element-a800ba6>.elementor-container {
+    min-height: 400px;
+}
+
+.elementor-119 .elementor-element.elementor-element-a800ba6>.elementor-container:after {
+    content: "";
+    min-height: inherit;
+}
+
+.elementor-119 .elementor-element.elementor-element-a800ba6>.elementor-container>.elementor-row>.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-119 .elementor-element.elementor-element-12dc0fb .elementor-image img {
+    width: 80%;
+}
+
+.elementor-119 .elementor-element.elementor-element-8a781c1 .elementor-text-editor {
+    text-align: left;
+}
+
+.elementor-119 .elementor-element.elementor-element-8a781c1 {
+    color: #000000;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 400;
+    line-height: 2em;
+    letter-spacing: 0.3px;
+}
+
+@media(max-width:767px) {
+    .elementor-119 .elementor-element.elementor-element-465abee>.elementor-container {
+        min-height: 500px;
+    }
+    .elementor-119 .elementor-element.elementor-element-465abee>.elementor-container:after {
+        content: "";
+        min-height: inherit;
+    }
+    .elementor-119 .elementor-element.elementor-element-ec5513a>.elementor-container {
+        min-height: 1020px;
+    }
+    .elementor-119 .elementor-element.elementor-element-ec5513a>.elementor-container:after {
+        content: "";
+        min-height: inherit;
+    }
+    .elementor-119 .elementor-element.elementor-element-e6e8f6c>.elementor-container {
+        min-height: 685px;
+    }
+    .elementor-119 .elementor-element.elementor-element-e6e8f6c>.elementor-container:after {
+        content: "";
+        min-height: inherit;
+    }
+}
